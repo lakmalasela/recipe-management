@@ -1,0 +1,13 @@
+.middel{
+   padding: 20vh 50vh;
+}
+
+.text-label{
+    text-align: right !important;
+}
+.error{
+    color: red;
+}
+.button-label{
+    text-align: left;
+}

@@ -1,0 +1,10 @@
+.btn-left{
+   margin-left: 1vh !important;
+   padding: 7vh;
+}
+.btn-center{
+    text-align: left !important;
+}
+.btn-shape{
+    width:12vh;
+}
